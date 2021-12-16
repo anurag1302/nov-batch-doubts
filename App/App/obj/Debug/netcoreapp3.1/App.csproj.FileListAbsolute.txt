@@ -1,0 +1,14 @@
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.exe
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.dll
+C:\nov-batch-doubts\App\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.dll
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\nov-batch-doubts\App\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
